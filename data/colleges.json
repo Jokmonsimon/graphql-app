@@ -1,0 +1,32 @@
+[
+  {
+    "id": "col-101",
+    "name": "Gulu Core PTC",
+    "location": "Gulu City",
+    "rating": 5.0
+  },
+  {
+    "id": "col-102",
+    "name": "Christ The King PTC",
+    "location": "Gulu City",
+    "rating": 4.5
+  },
+  {
+    "id": "col-103",
+    "name": "St. Joseph's College Layibi",
+    "location": "Gulu City",
+    "rating": 3.5
+  },
+  {
+    "id": "col-104",
+    "name": "Dr. Obote College",
+    "location": "Lira City",
+    "rating": 4.0
+  },
+  {
+    "id": "col-105",
+    "name": "Lango College",
+    "location": "Lira City",
+    "rating": 5.0
+  }
+]

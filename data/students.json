@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Okello",
+    "lastName": "Tonny Blair",
+    "email": "tonny.bo@gmail.com",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1002",
+    "firstName": "Akello",
+    "lastName": "Winny",
+    "email": "akellowinny@gmail.com",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1003",
+    "firstName": "Eyena",
+    "lastName": "Samuel Baker",
+    "email": "eyena.sb@gmail.com",
+    "password": "pass123",
+    "collegeId": "col-103"
+  },
+  {
+    "id": "S1004",
+    "firstName": "Elisa",
+    "lastName": "Dimiti",
+    "email": "elisadimit@gmail.com",
+    "password": "pass123",
+    "collegeId": "col-104"
+  },
+  {
+    "id": "S1005",
+    "firstName": "Onen",
+    "lastName": "Junior Mark",
+    "email": "agogo@gmail.com",
+    "password": "pass123",
+    "collegeId": "col-105"
+  }
+]
